@@ -1,7 +1,5 @@
 `timescale 1ns / 1ps
 `include "ram.v"
-`timescale 1ns / 1ns
-`include "ram.v"
 `include "rom.v"
 `include "top_proc.sv"
 
